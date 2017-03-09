@@ -9,9 +9,9 @@ SMS Nexmo Messenger is a NodeJS app using the Nexmo API to send SMS messages to 
 
 Dillinger uses a number of open source projects to work properly:
 
-* [Node.JS] - evented I/O for the backend
+* [Node.js](https://nodejs.org/en/) - evented I/O for the backend
 * [Nexmo](https://www.nexmo.com) - Programmable Building Blocks for Next Generation Communication Applications.
-* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Express.js](https://expressjs.com) - fast node.js network app framework [@tjholowaychuk]
 
 ### Installation
 
